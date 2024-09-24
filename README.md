@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Study at UNP<br>🤝 I’m looking for help with my friend which is far from here<br>🌱 I’m currently learning about Pyton Programming Language<br>⚡ Fun fact: lazy to move, but once you move it's definitely finished
+🧑 My Name Daffy Putra Alfajri<br>🏘️ i live in Jambi<br>🔭 I’m currently Study at UNP<br>💁 With NIM 24343004<br>🤝 I’m looking for help with my friend which is far from here<br>🌱 I’m currently learning about Pyton Programming Language<br>⚡ Fun fact: lazy to move, but once you move it's definitely finished<br>🎵 Music its my hobby
 
 
 # 💻 Tech Stack:
